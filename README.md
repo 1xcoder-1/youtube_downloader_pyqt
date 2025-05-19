@@ -28,5 +28,4 @@ Modified code from Potoken generator originally from [youtube-trusted-session-ge
 
 ---------------------------------------------------------------------------------------
 
-![Python Logo](https://github.com/fedetony/yt_download_pytubefix/blob/master/img/main_icon48.png "GUI pytubefix V1.0beta by FG") If you like my work consider [supporting me!][sp]
 
