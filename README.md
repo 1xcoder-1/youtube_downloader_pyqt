@@ -1,7 +1,5 @@
 # Simple GUI for pytubefix
 ---------------------------------------
-![Python Logo](https://github.com/fedetony/yt_download_pytubefix/blob/master/img/main_icon48.png "GUI pytubefix V1.0beta by FG")
- This is a simple GUI to download videos from yt using pytubefix, for latest state check [my github][wp] account. Please contribute with bug reports, or enhancements you would like to have.
 
 Features
 ---------------------------------------
@@ -31,16 +29,4 @@ Modified code from Potoken generator originally from [youtube-trusted-session-ge
 ---------------------------------------------------------------------------------------
 
 ![Python Logo](https://github.com/fedetony/yt_download_pytubefix/blob/master/img/main_icon48.png "GUI pytubefix V1.0beta by FG") If you like my work consider [supporting me!][sp]
-
-G1(junas) Cesium: D9CFSvUHQDJJ4iFExVU4fTMAidADV8kedabeqtV6o3CS
-
-BTC Bitcoin: n211bgvuTVfwFoV6xwcHE5pPe4zWuQ27je
-
-[sp]: https://github.com/sponsors/fedetony
-
-[Github web page][wp].
-
-[wp]: https://github.com/fedetony
-
-[pogen]: https://github.com/iv-org/youtube-trusted-session-generator
 
